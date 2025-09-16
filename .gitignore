@@ -126,3 +126,4 @@ GitHub.sublime-settings
 # Ignore these files
 index_paralax.html
 snippets.txt
+resources/*
